@@ -1,0 +1,41 @@
+Bimba: Fifty years. That's how long a federal accessibility rule has been on the books, and this week one agency tried to erase it in a single stroke.
+Bimbo: Whoa, okay, that is a way to start. Happy July 11th, by the way — this is your accessibility and design digest.
+Bimba: Right, sorry, got straight into it. But yeah, the Department of Energy is trying to rescind almost fifty years of building accessibility rules for anything built with its funding.
+Bimbo: Wait, the actual construction standards? Like ramps and doorways?
+Bimba: Exactly, the Uniform Federal Accessibility Standards. And they're doing it through this fast-track process called a direct final rule, which is supposed to be for boring, uncontroversial stuff.
+Bimbo: This doesn't sound boring or uncontroversial.
+Bimba: Not even close. The ACLU's Disability Rights Program Director, Zoe Brennan-Krohn, said the DOE's approach, quote, defies logic, federal disability protections, and every standard rulemaking practice from the past several decades, end quote.
+Bimbo: Strong words. Did people actually push back?
+Bimba: Over twenty thousand public comments have been filed opposing it. The ACLU thinks this might be a test case — like, DOE goes first, and if nobody notices, other agencies try the same move.
+Bimbo: That's a genuinely scary way to think about it. Okay, so that's the US pulling back. Did we see anyone moving the opposite direction?
+Bimba: Actually yeah, perfect contrast. China just unveiled its five-year plan for disability services, running through 2030.
+Bimbo: And accessibility's actually in there?
+Bimba: A lot of it. They're committing to barrier-free upgrades in museums, theaters, libraries, self-service terminals, thirty-two tasks total across the plan.
+Bimbo: So one government's ripping standards out, another's writing thirty-two new ones in.
+Bimba: Pretty much sums up today's policy split. What have you got on the design side?
+Bimbo: This one's actually kind of exciting. Closed captioning just got its biggest visual overhaul since the seventies.
+Bimba: Since the seventies? Captions have looked the same since the seventies?
+Bimbo: Pretty much, just white text on a black bar. But this new system called Caption with Intention uses animation, color, and expressive typography to actually carry tone and emotion, not just the words.
+Bimba: Who built that?
+Bimbo: FCB Chicago, working with the Chicago Hearing Society and Rakish Entertainment. And it's not just a cool concept — the Academy of Motion Picture Arts and Sciences gave it an Award of Merit in April.
+Bimba: An Oscar body recognizing caption design. That's a big deal.
+Bimbo: And it's open-source, so any studio or streaming platform can just adopt it for free.
+Bimba: Okay, what else is moving in design?
+Bimbo: Gaming — Electronic Arts just started showing standardized accessibility tags on its site this month.
+Bimba: Tags like what?
+Bimbo: Things like whether a game has color alternatives, or is playable with a mouse only. It's part of this industry-wide thing called the Accessible Games Initiative, and EA joins Xbox and Ubisoft in adopting it.
+Bimba: What about PlayStation and Nintendo?
+Bimbo: Still haven't signed on, which people in the accessibility community are definitely side-eyeing.
+Bimba: Noted. Anything in the physical world?
+Bimbo: Yeah, architecture — ArchDaily ran a piece arguing that adult changing stations should just be standard in stadiums, malls, and hospitals from day one, not some special add-on.
+Bimba: Like the UK does already?
+Bimbo: Exactly, they point to the UK's mandatory rules as the model the US and Canada are still catching up to.
+Bimba: Okay, last one, and this one's my favorite today. Over at the Museum of Contemporary Art Chicago, there's a recurring workshop called Cripping the Galleries: Painting Disability Justice.
+Bimbo: Cripping the Galleries, that's a bold title.
+Bimba: Reclaiming crip as an identity, very deliberately. Artist Genevieve Ramos leads it, and there are people called access doulas on hand supporting whatever each participant needs to paint through a disability-justice lens.
+Bimbo: Access doulas, I love that phrasing.
+Bimba: Right? And it's part of an ongoing partnership with the Art Institute of Chicago, Bodies of Work, and the National Museum of Mexican Art. So it's not a one-off, it's a whole recurring practice inside these major institutions.
+Bimbo: So today we've got a federal rollback versus a Chinese five-year plan, captions finally catching up to the twenty-first century, and a Chicago museum turning a paintbrush into protest.
+Bimba: That's a lot of ground for one digest.
+Bimbo: That's your accessibility and design digest for July 11th.
+Bimba: Thanks for listening, and we'll catch you next time.

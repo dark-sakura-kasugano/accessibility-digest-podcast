@@ -1,0 +1,46 @@
+Bimba: Okay, a national disability rights group is suing the federal government right now, over accessibility. That's where we're starting today.
+Bimbo: I love a cold open. So set it up for me, who's suing who?
+Bimba: The National Federation of the Blind, going after the Department of Justice and Health and Human Services. This is your accessibility and design digest for July 9th, and it's a big one on the policy side.
+Bimbo: Okay, what's the actual complaint?
+Bimba: So DOJ and HHS pushed back the deadline for state and local governments to make their websites ADA-compliant. It was supposed to be April 2026, now it's April 2027.
+Bimbo: And the NFB doesn't think that delay is legal.
+Bimba: Right, they filed in federal court in Maryland arguing the extension violates the Administrative Procedure Act. Basically, you can't just wave a wand and move the goalposts a year.
+Bimbo: What's the reaction been like?
+Bimba: Pretty split. A lot of advocates are cheering the suit on, saying it's a necessary check because governments keep getting extensions and never quite catching up. But some public-sector folks are pointing out that litigation risk was never actually going away, extension or not, because the underlying ADA obligation has been on the books since 1990.
+Bimbo: So even with more time on paper, you can still get sued today.
+Bimba: Exactly. Nobody's off the hook.
+Bimbo: Is there a standards story sitting underneath all this?
+Bimba: There is, a quieter one. The W3C put out an updated WCAG 3.0 working draft, and developers and designers are paying attention because it's a real structural shift.
+Bimbo: How so?
+Bimba: WCAG right now is pass or fail. You either meet a success criterion or you don't. WCAG 3.0 is moving to a graded, outcome-based score across twelve functional categories instead.
+Bimbo: That sounds like it could go either way. More nuanced, but also messier to actually test against.
+Bimba: That's exactly the split reaction. Some people in the field think it's overdue, other people are worried it's going to make compliance testing a lot harder for years. Anyway, what's on your side of things today?
+Bimbo: I've been in the art world. The V&A's Design and Disability show closed back in February, but people are still arguing about it.
+Bimba: I remember that one, big survey of disabled, Deaf, and neurodivergent design history.
+Bimbo: Right, a hundred seventy objects. And there's a Disability Arts Online review with a great headline: "accessible form, but what about the content?"
+Bimba: Ooh, that's a little bit of a diss.
+Bimbo: Kind of, yeah. The reviewer loved the actual accessibility of the show itself, the tactile maps, BSL guides, a sensory decompression zone. Genuinely praised that as innovative.
+Bimba: But?
+Bimbo: But said the layout was so crammed with objects that nothing had room to breathe, and at points the curation felt like, quote, talking at you, not with you.
+Bimba: So it practiced great accessibility but maybe not great dialogue.
+Bimbo: That's the read. And that critique is basically fueling excitement around a brand new gallery in London called dis_place.
+Bimba: Never heard of it.
+Bimbo: It just opened its first show, "I need to be more than a lesson you learned," curated by Nathalie Boobis. And organizers are pretty explicit that it's meant as a corrective.
+Bimba: Corrective how?
+Bimbo: Built by and for disabled, D slash deaf, and neurodivergent artists, instead of a big institution exhibiting them from the outside. Intersectionality is a real explicit focus too, not an afterthought.
+Bimba: So less being talked about, more doing the talking.
+Bimbo: Pretty much. Okay, your turn again, what else caught your eye?
+Bimba: AI and assistive tools, actually, on two different fronts. Google's Gemini Live Video Mode is getting a lot of renewed attention from blind and low-vision users.
+Bimbo: What's it doing that's new?
+Bimba: Hands-free, real-time narration through your phone camera. Point it at a street sign, a shelf of products, your surroundings, and it just talks you through it, according to Guide Dogs UK. People are saying it's a real step up from the old static-photo description tools.
+Bimbo: That's a meaningful difference, static versus live.
+Bimba: Right. And then Apple previewed a batch of new Apple Intelligence accessibility features, on-device auto-generated subtitles for video that was never captioned, and for Vision Pro users, eye-controlled steering for compatible wheelchairs.
+Bimbo: Wait, steering a wheelchair with your eyes through a headset?
+Bimba: Yep. And they're still rolling out the Hikawa Grip and Stand, that MagSafe accessory that was co-designed with people who have limited grip strength.
+Bimbo: How's all that landing with people?
+Bimba: Mostly positive, but there's a real chorus of "don't get too excited" too. Several commentators are saying these tools are additions, not replacements, for the actual fundamentals, like WCAG conformance and having a human actually review your design.
+Bimbo: Which loops all the way back to where we started, doesn't it? Standards, a lawsuit over deadlines, a show getting critiqued for its curation, AI tools that are great but not a substitute for the real work.
+Bimba: It really is one thread today. Alright, that's the digest for July 9th.
+Bimbo: A federal lawsuit, a new WCAG draft, a gallery answering back to the V&A, and some very cool, very not-a-substitute AI tools.
+Bimba: Thanks for listening, everybody.
+Bimbo: See you next time.
