@@ -1,0 +1,38 @@
+Bimbo: Somewhere on Pier 62 right now, there's a pageant going on for the best decorated wheelchair.
+Bimba: Wait, a pageant for wheelchairs?
+Bimbo: Yep. It's part of Seattle's very first Disability Arts Festival, happening today, July 12th — welcome to your accessibility and design digest.
+Bimba: Okay, decorated mobility devices as a category. I need details.
+Bimbo: So the festival took over the waterfront with music, dance, spoken word, and yeah, a pageant of decorated mobility devices, alongside ASL interpretation, live captioning, and an on-site sensory tent.
+Bimba: Built in from the start, not bolted on after the fact.
+Bimbo: Exactly. And it's not even Seattle's only disability arts moment this week — tomorrow, Sound Theatre Company opens its second-ever ILLUMINATE festival.
+Bimba: What's that one about?
+Bimbo: Four evenings of film, play readings, and panels, all centered on disabled performers. Opening night screens a documentary called IMPERFECT, about Denver's all-disabled PHAMALY Theatre Company staging Chicago.
+Bimba: So back to back, two festivals putting disabled artists at the center instead of the margins.
+Bimbo: Right. And there's a museum story in the same spirit — the newly opened Museum of Disability History out on Long Island. Its debut exhibit is called "Portals of US Disability History."
+Bimba: What makes that one stand out?
+Bimbo: It was built from the ground up around disability, instead of retrofitted into an existing collection. Display cases are mounted lower so seated and shorter visitors get equal sightlines, and the hallways are wide enough for two wheelchair users or ASL signers to move side by side.
+Bimba: I like that it's called "portals," too — like disability history isn't one straight timeline you walk through.
+Bimbo: Right, it's framed as a bunch of different entry points into the same story, which honestly fits everything else we're talking about today.
+Bimba: That's accessibility as the blueprint, not the afterthought. Okay, my turn — I've got a policy story that's actually enforceable now, not just aspirational.
+Bimbo: Let's hear it.
+Bimba: As of July 8th, a new HHS rule requires hospitals, and doctors' and dental offices that take federal funding, to have at least one accessible exam table and weight scale on site.
+Bimbo: Wait, that wasn't already required?
+Bimba: Not with actual enforcement teeth, no. Now the HHS Office of Civil Rights can pursue corrective action plans, penalties, or even refer violators to the DOJ.
+Bimbo: So this is a real deadline with real consequences.
+Bimba: Right. And there's a second policy story that's almost the mirror image of that one — accessibility overlay widgets are still drawing the exact lawsuits they were sold to prevent.
+Bimbo: Those little pop-up accessibility buttons on websites?
+Bimba: Those. New 2026 data says roughly one in four ADA web-accessibility lawsuits now target sites that already paid for one of these "AI-powered" tools.
+Bimbo: Isn't that the same category the FTC fined a company over?
+Bimba: Yeah, accessiBe, a million dollars for deceptive compliance claims. And now repeat-lawsuit rates are topping forty percent for sites that lean on overlays.
+Bimbo: So the fix becomes the liability.
+Bimba: Pretty much. And it's the same story every time — you can't buy your way out of actually fixing the underlying site.
+Bimbo: Which is a rough lesson to keep relearning in 2026. What else caught your eye today?
+Bimbo: One more, and it actually ties both of our stories together a little. Disability:IN's big global conference in Dallas is giving AI its own dedicated track for the first time.
+Bimba: Human-Centered AI, right?
+Bimbo: Exactly that name. It sits alongside their existing Work Design and Neuroinclusion sessions, billed as covering accessible, ethical, agentic technology that keeps people at the center.
+Bimba: That's interesting timing, given we just talked about AI overlay tools getting sued into the ground.
+Bimbo: Right, it's kind of two different reactions to the same anxiety. One's resisting bad AI, the other's trying to build good AI into the roadmap from day one.
+Bimba: With over nine hundred companies expected in Dallas, that's not a niche side conversation anymore.
+Bimbo: No, it's mainstream business planning now. Okay, so today: two disability-led arts festivals in Seattle, a federal deadline that actually has teeth, overlay widgets backfiring in court, and AI finally getting a seat at the accessibility table on purpose.
+Bimba: That's your accessibility and design digest for July 12th.
+Bimbo: Thanks for listening, we'll catch you next time.
