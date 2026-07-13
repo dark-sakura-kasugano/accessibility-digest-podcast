@@ -1,0 +1,31 @@
+Bimba: Picture a schoolyard where the swings, the paths, even the sound levels were designed by asking autistic kids what actually helps them feel calm. That's real now, not a concept sketch.
+Bimbo: That's the Neurodiverse City project — and it's July 13th. This might be my favorite kind of accessibility story today: stuff that got built, not just proposed.
+Bimba: Design Trust for Public Space teamed up with two architecture firms and tested actual prototypes — a sensory streetscape and a schoolyard playscape for the city's Nest Program for autistic students.
+Bimbo: And it wasn't just architects guessing. Sensory audits, workshops with autistic kids, teens, adults — INCLUDEnyc and the city's health department were in the room too.
+Bimba: One project lead put it simply: access to public space is essential to health and well-being. They're calling the results "joyful," which you don't hear a lot in urban design writeups.
+Bimbo: Usually it's "compliant." Joyful's a nice change. Speaking of built environments changing under pressure — Live Nation just got hit with something with real teeth.
+Bimba: This one's a legally binding agreement, not a PR promise. The UK's Equality and Human Rights Commission made them sign a Section 23 agreement after disabled fans at Wireless and Download reported blocked sightlines, staff questioning whether they were "really" disabled, not enough accessible toilets.
+Bimbo: Rough. So what's actually changing?
+Bimba: Bigger viewing platforms, sensory calm spaces, and disabled "mystery shoppers" auditing the festivals themselves. Rolling out across Download, Wireless, Latitude, Reading, Leeds.
+Bimbo: The regulator called the old conditions "unacceptable" but said the fix is "tangible." Live Nation says they'll "keep listening, learning and improving." We'll see if that holds next year.
+Bimba: Switching gears — Google did something pretty ambitious this year. Natively Adaptive Interfaces?
+Bimbo: Right, NAI. Instead of accessibility being a settings menu you dig through, it's baked into the app's core AI architecture — an "orchestrator" agent adjusting text size, contrast, audio description in real time.
+Bimba: So the app's basically reading the user and adjusting itself.
+Bimbo: Pretty much. Google.org is funding groups to build with it — RIT's program for deaf students, The Arc, RNID, Team Gleason. One example, Grammar Lab, an AI tutor helping deaf students build bilingual ASL and English skills on their own.
+Bimba: I like that they're framing it around "nothing about us, without us," not just shipping a tech demo. On a totally different note — Apple handed out a Design Award I did not see coming.
+Bimbo: What's that?
+Bimba: Pine Hearts. Small UK studio, Hyper Luminal Games, won the Inclusivity award over Civilization VII, which was also a finalist.
+Bimbo: What's the game even about?
+Bimba: A quiet, grief-themed adventure game. But the accessibility work is what got it the award — enhanced text legibility, customizable controls, adjustable motion and sensory feedback, built in from the start. Apple called it "a moving game for players of all abilities."
+Bimbo: Small studio beating the big franchise on inclusivity — nice underdog story. Your turn — what's on the arts side today?
+Bimba: Very Disability Pride Month appropriate. Disability Arts Online launched "Together! 2026," an open exhibition curated by Alison Marchant. Live since July 1st, runs through the month.
+Bimbo: How many artists?
+Bimba: Over 40, amateur to full professional. Built accessible from the ground up — audio description, alt text on every image, the whole gallery meant to actually be experienced.
+Bimbo: That's the whole ethos of this digest — access built in, not bolted on.
+Bimba: Exactly. Last one — the American Council of the Blind opened public voting for their 2026 Audio Description People's Choice Awards, through July 19th, film and series categories.
+Bimbo: What I like here is the judging criteria — it's explicitly about the quality of the description itself, not whether the show is popular.
+Bimba: Treating audio description as its own craft. Gala airs November 12th if you want to see who wins.
+Bimbo: That's a lot of ground for July 13th — sensory playgrounds, festival accountability, AI that adapts to you, two very different design awards.
+Bimba: All stuff that actually shipped, not just predictions for someday.
+Bimbo: We'll be back tomorrow with whatever's next. Thanks for listening.
+Bimba: See you then.
